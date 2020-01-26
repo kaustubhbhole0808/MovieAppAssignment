@@ -1,0 +1,73 @@
+{
+  "results": [
+    {
+      "popularity": 540.16,
+      "vote_count": 1529,
+      "video": false,
+      "poster_path": "/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg",
+      "id": 419704,
+      "adult": false,
+      "backdrop_path": "/p3TCqUDoVsrIm8fHK9KOTfWnDjZ.jpg",
+      "original_language": "en",
+      "original_title": "Ad Astra",
+      "genre_ids": [
+        12,
+        18,
+        9648,
+        878,
+        53
+      ],
+      "title": "Ad Astra",
+      "vote_average": 6,
+      "overview": "The near future, a time when both hope and hardships drive humanity to look to the stars and beyond. While a mysterious phenomenon menaces to destroy life on planet Earth, astronaut Roy McBride undertakes a mission across the immensity of space and its many perils to uncover the truth about a lost expedition that decades before boldly faced emptiness and silence in search of the unknown.",
+      "release_date": "2019-09-17"
+    },
+    {
+      "popularity": 121.099,
+      "vote_count": 67,
+      "video": false,
+      "poster_path": "/MBiKqTsouYqAACLYNDadsjhhC0.jpg",
+      "id": 486589,
+      "adult": false,
+      "backdrop_path": "/bga3i5jcejBekr2FCGJga1fYCh.jpg",
+      "original_language": "en",
+      "original_title": "Red Shoes and the Seven Dwarfs",
+      "genre_ids": [
+        16,
+        10749
+      ],
+      "title": "Red Shoes and the Seven Dwarfs",
+      "vote_average": 6.4,
+      "overview": "Princes who have been turned into Dwarfs seek the red shoes of a lady in order to break the spell, although it will not be easy.",
+      "release_date": "2019-07-25"
+    },
+    {
+      "popularity": 126.208,
+      "vote_count": 27,
+      "video": false,
+      "poster_path": "/30YacPAcxpNemhhwX0PVUl9pVA3.jpg",
+      "id": 431693,
+      "adult": false,
+      "backdrop_path": "/qlYxtqVfu2LOdvYMMDPCSGX0Oz0.jpg",
+      "original_language": "en",
+      "original_title": "Spies in Disguise",
+      "genre_ids": [
+        28,
+        12,
+        16,
+        35
+      ],
+      "title": "Spies in Disguise",
+      "vote_average": 7.9,
+      "overview": "When the world's best spy is turned into a pigeon, he must rely on his nerdy tech officer to save the world.",
+      "release_date": "2019-12-24"
+    }
+  ],
+  "page": 1,
+  "total_results": 1147,
+  "dates": {
+    "maximum": "2020-01-03",
+    "minimum": "2019-11-16"
+  },
+  "total_pages": 58
+}
